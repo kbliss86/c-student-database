@@ -1,0 +1,7 @@
+C:\Users\Kendall\bootcamp_c_sharp\c-student-database\student-db\bin\Debug\student-db.exe.config
+C:\Users\Kendall\bootcamp_c_sharp\c-student-database\student-db\bin\Debug\student-db.exe
+C:\Users\Kendall\bootcamp_c_sharp\c-student-database\student-db\bin\Debug\student-db.pdb
+C:\Users\Kendall\bootcamp_c_sharp\c-student-database\student-db\obj\Debug\student-db.csproj.AssemblyReference.cache
+C:\Users\Kendall\bootcamp_c_sharp\c-student-database\student-db\obj\Debug\student-db.csproj.CoreCompileInputs.cache
+C:\Users\Kendall\bootcamp_c_sharp\c-student-database\student-db\obj\Debug\student-db.exe
+C:\Users\Kendall\bootcamp_c_sharp\c-student-database\student-db\obj\Debug\student-db.pdb
